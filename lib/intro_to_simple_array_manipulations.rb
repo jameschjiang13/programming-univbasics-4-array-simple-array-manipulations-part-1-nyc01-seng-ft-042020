@@ -13,5 +13,4 @@ end
 def pop_with_args(array, number)
   number times.do
     array.pop
-  end
 end
